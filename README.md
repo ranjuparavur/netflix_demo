@@ -1,5 +1,5 @@
 # Netflix Landing Page
 
-> This project was created using the tutorial by Traversy Media on YouTube
+> The hosted page can be found at: https://pedantic-northcutt-8f8d50.netlify.app/
 ---
 The code is part of an attempt by the author to learn web development
